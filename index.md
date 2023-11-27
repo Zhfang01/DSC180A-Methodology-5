@@ -1,9 +1,8 @@
-# Your Name
-Your email: your.email@ucsd.edu
-
+Zhen Fang
+zhfang@ucsd.edu
 ## Section Information
-- Section: Your Section
-- Mentor: Your Mentor's Name
+- Section: A15
+- Mentor: Rod Albuyeh
 
 ## Answers to Prompts
 **What is the most interesting topic covered in your domain this quarter?**
